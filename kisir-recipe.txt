@@ -4,7 +4,7 @@ Zutaten
 1 Pck.	Tomate(n), passierte
 2 EL	Tomatenmark
 2 Stange/n	Frühlingszwiebel(n)
-3 	Tomate(n)
+4 	Tomate(n)
 3 große	Peperoni, (2milde+1scharfe)
  	Petersilie
  	Salz und Pfeffer
